@@ -123,3 +123,4 @@ concat_metadata_decode(const u_char *data, struct g_concat_metadata *md)
 	md->md_provsize = le64dec(data + 60);
 }
 #endif	/* _G_CONCAT_H_ */
+

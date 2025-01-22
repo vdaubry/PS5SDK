@@ -61,3 +61,4 @@ typedef enum {
 typedef void bus_dma_lock_t(void *, bus_dma_lock_op_t);
 
 #endif /* !_SYS__BUS_DMA_H_ */
+

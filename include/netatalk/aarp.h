@@ -84,3 +84,4 @@ struct aarptab		*aarptnew(struct at_addr      *);
 #endif
 
 #endif /* _NETATALK_AARP_H_ */
+

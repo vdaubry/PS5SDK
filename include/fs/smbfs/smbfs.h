@@ -103,3 +103,4 @@ int smbfs_vinvalbuf(struct vnode *vp, struct thread *td);
 #endif	/* KERNEL */
 
 #endif /* _SMBFS_SMBFS_H_ */
+

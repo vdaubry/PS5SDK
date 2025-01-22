@@ -175,3 +175,4 @@ struct mfi_query_disk {
 #define MFI_LINUX_SET_AEN	0x400c4d03
 #define MFI_LINUX_CMD_2		0xc1144d02
 #define MFI_LINUX_SET_AEN_2	0x400c4d04
+

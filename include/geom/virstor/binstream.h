@@ -91,3 +91,4 @@ uint32_t	bs_read_u32(bin_stream_t * bs);
 uint64_t	bs_read_u64(bin_stream_t * bs);
 
 #endif
+

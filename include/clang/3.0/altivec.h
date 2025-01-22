@@ -11854,3 +11854,4 @@ vec_any_out(vector float a, vector float b)
 #undef __ATTRS_o_ai
 
 #endif /* __ALTIVEC_H */
+

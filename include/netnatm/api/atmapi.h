@@ -289,3 +289,4 @@ struct atm_exstatus_party {
 	uint8_t		state;		/* Px */
 };
 #endif
+

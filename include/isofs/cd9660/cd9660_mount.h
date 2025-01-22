@@ -52,3 +52,4 @@ struct iso_args {
 #define ISOFSMNT_NOJOLIET 0x00000008	/* disable Joliet Ext.*/
 #define ISOFSMNT_BROKENJOLIET 0x00000010/* allow broken Joliet disks */
 #define	ISOFSMNT_KICONV 0x00000020	/* Use libiconv to convert chars */
+

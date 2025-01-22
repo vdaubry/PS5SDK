@@ -69,3 +69,4 @@ struct g_mountver_softc {
 #endif	/* _KERNEL */
 
 #endif	/* _G_MOUNTVER_H_ */
+

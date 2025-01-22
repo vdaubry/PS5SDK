@@ -565,3 +565,4 @@ uint8_t *g_eli_key_hold(struct g_eli_softc *sc, off_t offset, size_t blocksize);
 void g_eli_key_drop(struct g_eli_softc *sc, uint8_t *rawkey);
 #endif
 #endif	/* !_G_ELI_H_ */
+

@@ -77,3 +77,4 @@ bios_oem_strings(struct bios_oem *oem, u_char *buffer, size_t maxlen);
 
 
 #endif /* _MACHINE_PC_BIOS_H_ */
+

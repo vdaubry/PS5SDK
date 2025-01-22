@@ -104,3 +104,4 @@ u_int uni_getcustate(const struct uni *);
 struct unicx *uni_context(struct uni *);
 
 #endif
+

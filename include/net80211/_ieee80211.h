@@ -401,3 +401,4 @@ struct ieee80211_mimo_info {
 	uint32_t	evm[3];		/* EVM data */
 };
 #endif /* _NET80211__IEEE80211_H_ */
+

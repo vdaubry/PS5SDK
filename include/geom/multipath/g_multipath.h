@@ -97,3 +97,4 @@ multipath_metadata_decode(u_char *data, struct g_multipath_metadata *md)
 	md->md_size = le64dec(data);
 }
 #endif	/* _G_MULTIPATH_H_ */
+

@@ -192,3 +192,4 @@ char		*ipx_ntoa(struct ipx_addr);
 __END_DECLS
 
 #endif /* !_NETIPX_IPX_H_ */
+

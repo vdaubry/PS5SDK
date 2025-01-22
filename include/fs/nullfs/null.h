@@ -79,3 +79,4 @@ MALLOC_DECLARE(M_NULLFSNODE);
 #endif /* NULLFS_DEBUG */
 
 #endif /* _KERNEL */
+

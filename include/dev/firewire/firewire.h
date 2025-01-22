@@ -468,3 +468,4 @@ struct fw_crom_buf {
 #define DEV_FWMEM(x)	(dev2unit(x) & FWMEM_FLAG)
 #endif
 #endif
+

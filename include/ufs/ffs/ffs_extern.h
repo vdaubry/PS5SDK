@@ -183,3 +183,4 @@ struct snapdata {
 #endif /* _KERNEL */
 
 #endif /* !_UFS_FFS_EXTERN_H */
+

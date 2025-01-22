@@ -474,3 +474,4 @@ raid3_metadata_dump(const struct g_raid3_metadata *md)
 	printf("  MD5 hash: %s\n", hash);
 }
 #endif	/* !_G_RAID3_H_ */
+

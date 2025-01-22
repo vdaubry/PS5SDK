@@ -246,3 +246,4 @@ struct ngm_atm_acr_change {
 	}
 
 #endif /* _NETGRAPH_ATM_NG_ATM_H */
+

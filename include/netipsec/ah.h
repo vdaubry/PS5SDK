@@ -54,3 +54,4 @@ struct newah {
 	/* variable size, 32bit bound*/	/* Authentication data */
 };
 #endif /*_NETIPSEC_AH_H_*/
+

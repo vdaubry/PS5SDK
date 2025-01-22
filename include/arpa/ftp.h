@@ -105,3 +105,4 @@ char *modenames[] =  {"0", "Stream", "Block", "Compressed" };
 #define	BLK_BYTECOUNT	2	/* Bytes in this block */
 
 #endif /* !_FTP_H_ */
+

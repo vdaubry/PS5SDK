@@ -100,3 +100,4 @@ struct mac_mls {
 #define	MAC_MLS_BIT_SET_EMPTY(set)	mls_bit_set_empty(set)
 
 #endif /* !_SYS_SECURITY_MAC_MLS_H */
+

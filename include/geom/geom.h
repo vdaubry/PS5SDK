@@ -394,3 +394,4 @@ struct g_geom *gctl_get_geom(struct gctl_req *req, struct g_class *mpr, char con
 struct g_provider *gctl_get_provider(struct gctl_req *req, char const *arg);
 
 #endif /* _GEOM_GEOM_H_ */
+

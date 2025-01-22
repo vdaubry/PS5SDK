@@ -112,3 +112,4 @@ struct mac_bsdextended_rule {
 };
 
 #endif /* _SYS_SECURITY_MAC_BSDEXTENDED_H */
+

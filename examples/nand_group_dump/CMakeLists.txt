@@ -64,3 +64,4 @@ file(GLOB SrcFiles ${D_SRC}/*.c ${D_SRC}/*.h ${D_SRC}/*.s)
 target_sources(${PROJECT_NAME} PRIVATE ${SrcFiles})
 target_link_directories	(${PROJECT_NAME} PUBLIC "${D_PS5SDK}/lib")
 target_link_libraries	(${PROJECT_NAME} PUBLIC ps5sdk_crt)
+

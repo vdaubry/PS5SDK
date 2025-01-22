@@ -63,3 +63,4 @@ int	 procfs_notsystem(PFS_VIS_ARGS);
 int	 procfs_candebug(PFS_VIS_ARGS);
 
 #endif /* _KERNEL */
+

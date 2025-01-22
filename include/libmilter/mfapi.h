@@ -598,3 +598,4 @@ LIBMILTER_API int smfi_set_max_exec_time __P((unsigned int));
 #endif /* __cplusplus */
 
 #endif /* ! _LIBMILTER_MFAPI_H */
+

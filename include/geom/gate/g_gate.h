@@ -159,3 +159,4 @@ struct g_gate_ctl_io {
 	int		 gctl_error;
 };
 #endif	/* !_G_GATE_H_ */
+

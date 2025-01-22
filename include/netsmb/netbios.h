@@ -136,3 +136,4 @@ struct sockaddr_nb {
 #define	snb_addrin	snb_tran.x_in
 
 #endif /* !_NETSMB_NETBIOS_H_ */
+

@@ -2416,3 +2416,4 @@ find_mode_page_10(struct scsi_mode_header_10 *mode_header)
 __END_DECLS
 
 #endif /*_SCSI_SCSI_ALL_H*/
+

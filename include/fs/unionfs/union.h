@@ -146,3 +146,4 @@ MALLOC_DECLARE(M_UNIONFSPATH);
 #endif				/* UNIONFS_DEBUG */
 
 #endif				/* _KERNEL */
+

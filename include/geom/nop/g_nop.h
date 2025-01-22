@@ -67,3 +67,4 @@ struct g_nop_softc {
 #endif	/* _KERNEL */
 
 #endif	/* _G_NOP_H_ */
+

@@ -27,3 +27,4 @@ typedef struct
  */
 
 #endif /* !_DEV_SPEAKER_SPEAKER_H_ */
+

@@ -144,3 +144,4 @@ cache_metadata_decode(const u_char *data, struct g_cache_metadata *md)
 }
 
 #endif	/* _G_CACHE_H_ */
+

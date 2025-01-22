@@ -95,3 +95,4 @@ struct pmc_md_amd_pmc {
 
 #endif /* _KERNEL */
 #endif /* _DEV_HWPMC_AMD_H_ */
+

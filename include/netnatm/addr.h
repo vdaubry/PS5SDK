@@ -40,3 +40,4 @@ int uni_e1642nsap(u_char *, const char *);
 int uni_nsap2e164(char *, const u_char *, int);
 
 #endif
+

@@ -1220,3 +1220,4 @@ typedef void *meta_p;
 	} while (0)
 
 #endif /* _NETGRAPH_NETGRAPH_H_ */
+

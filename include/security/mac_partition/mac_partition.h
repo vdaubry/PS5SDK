@@ -44,3 +44,4 @@
 #define	MAC_PARTITION_LABEL_NAME	"partition"
 
 #endif /* !_SYS_SECURITY_MAC_PARTITION_H */
+

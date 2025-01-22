@@ -849,3 +849,4 @@ OM_uint32 gss_pname_to_uid
 __END_DECLS
 
 #endif /* _GSSAPI_GSSAPI_H_ */
+

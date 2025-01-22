@@ -127,3 +127,4 @@ int	ata_identify_match(caddr_t identbuffer, caddr_t table_entry);
 int	ata_static_identify_match(caddr_t identbuffer, caddr_t table_entry);
 
 #endif
+

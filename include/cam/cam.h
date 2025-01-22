@@ -264,3 +264,4 @@ static __inline void cam_init_pinfo(cam_pinfo *pinfo)
 #endif
 
 #endif /* _CAM_CAM_H */
+

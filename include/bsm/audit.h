@@ -326,3 +326,4 @@ au_asid_t	 audit_session_join(mach_port_name_t port);
 __END_DECLS
 
 #endif /* !_BSM_AUDIT_H */
+

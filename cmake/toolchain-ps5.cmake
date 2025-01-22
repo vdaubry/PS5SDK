@@ -47,3 +47,4 @@ set(CMAKE_ASM_FLAGS "--target=x86_64-pc-freebsd11-elf -nostdlib -fPIC -fPIE")
 
 #-DCMAKE_LINKER=/path/to/linker -DCMAKE_CXX_LINK_EXECUTABLE="<CMAKE_LINKER> <FLAGS> <CMAKE_CXX_LINK_FLAGS> <LINK_FLAGS> <OBJECTS> -o <TARGET> <LINK_LIBRARIES>"
 set(CMAKE_EXE_LINKER_FLAGS "-fuse-ld=lld -Xlinker -T ${CMAKE_CURRENT_SOURCE_DIR}/linker.x -Wl,--build-id=none -Wl,-z,norelro")
+

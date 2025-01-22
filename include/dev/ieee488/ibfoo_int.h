@@ -145,3 +145,4 @@ struct ibarg {
 };
 
 #define GPIB_IBFOO	_IOWR(4, 0, struct ibarg)
+

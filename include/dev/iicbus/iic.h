@@ -65,3 +65,4 @@ struct iic_rdwr_data {
 #define I2CRPTSTART	_IOW('i', 7, struct iiccmd)	/* repeated start */
 
 #endif
+

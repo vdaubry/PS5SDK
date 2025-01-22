@@ -53,3 +53,4 @@ target_compile_options(${PROJECT_NAME} PUBLIC
     $<$<COMPILE_LANGUAGE:CXX>:${CXX_DEFS} ${CXX_FLAGS}>
     $<$<COMPILE_LANGUAGE:ASM>:$<IF:${IS_CLANG},-Xclang,-x> assembler-with-cpp ${ASM_FLAGS}>
 )
+

@@ -49,3 +49,4 @@ typedef struct vkbd_status *	vkbd_status_p;
 
 #endif /* ndef _VKBD_VAR_H_ */
 
+

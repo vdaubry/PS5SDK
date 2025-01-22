@@ -97,3 +97,4 @@ extern  bool_t xdr_bp_getfile_res(XDR *, bp_getfile_res*);
 #endif
 
 #endif /* !_BOOTPARAM_PROT_H_RPCGEN */
+

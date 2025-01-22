@@ -390,3 +390,4 @@ struct nw_time_buffer {
 } __packed;
 
 #endif /*_NCP_H_ */
+

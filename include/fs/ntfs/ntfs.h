@@ -306,3 +306,4 @@ MALLOC_DECLARE(M_NTFSNTHASH);
 #endif
 
 extern struct vop_vector ntfs_vnodeops;
+

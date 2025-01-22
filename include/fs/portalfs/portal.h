@@ -65,3 +65,4 @@ struct portalnode {
 
 extern struct vop_vector portal_vnodeops;
 #endif /* _KERNEL */
+

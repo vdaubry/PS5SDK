@@ -201,3 +201,4 @@ struct devfs_dirent	*devfs_find(struct devfs_dirent *, const char *, int,
 #endif /* _KERNEL */
 
 #endif /* !_FS_DEVFS_DEVFS_H_ */
+

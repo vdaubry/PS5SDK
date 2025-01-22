@@ -346,3 +346,4 @@ struct pam_module {
 #endif
 
 #endif /* !SECURITY_OPENPAM_H_INCLUDED */
+

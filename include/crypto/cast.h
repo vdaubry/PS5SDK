@@ -21,3 +21,4 @@ void cast_encrypt(cast_key * key, u_int8_t * inblock, u_int8_t * outblock);
 void cast_decrypt(cast_key * key, u_int8_t * inblock, u_int8_t * outblock);
 
 #endif /* ifndef _CAST_H_ */
+

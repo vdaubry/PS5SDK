@@ -71,3 +71,4 @@ ofw_bus_get_type(device_t dev)
 }
 
 #endif /* !_DEV_OFW_OFW_BUS_H_ */
+

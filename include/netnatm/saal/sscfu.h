@@ -101,3 +101,4 @@ void sscfu_setdebug(struct sscfu *, u_int);
 u_int sscfu_getdebug(const struct sscfu *);
 
 #endif
+

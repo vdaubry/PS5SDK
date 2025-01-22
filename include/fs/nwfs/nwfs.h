@@ -77,3 +77,4 @@ extern struct vop_vector nwfs_vnodeops;
 #endif	/* _KERNEL */
 
 #endif /* _NWFS_H_ */
+

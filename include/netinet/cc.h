@@ -165,3 +165,4 @@ extern struct rwlock cc_list_lock;
 #define	CC_LIST_LOCK_ASSERT()	rw_assert(&cc_list_lock, RA_LOCKED)
 
 #endif /* _NETINET_CC_H_ */
+

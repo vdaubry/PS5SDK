@@ -68,3 +68,4 @@ struct smbcmd {
 #define SMB_BREAD	_IOWR('i', 11, struct smbcmd)
 
 #endif
+

@@ -114,3 +114,4 @@ label_metadata_decode(const u_char *data, struct g_label_metadata *md)
 	md->md_provsize = le64dec(data + 36);
 }
 #endif	/* _G_LABEL_H_ */
+

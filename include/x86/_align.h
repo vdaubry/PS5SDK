@@ -50,3 +50,4 @@
 #define	_ALIGN(p)	(((uintptr_t)(p) + _ALIGNBYTES) & ~_ALIGNBYTES)
 
 #endif /* !_X86_INCLUDE__ALIGN_H_ */
+

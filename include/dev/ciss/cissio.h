@@ -233,3 +233,4 @@ union ciss_statrequest {
 #define CCISS_GETQSTATS		_IOWR ('C', 211, union ciss_statrequest)
 
 #pragma pack()
+

@@ -36,3 +36,4 @@
 int	fifo_vnoperate(struct vop_generic_args *);
 int	fifo_printinfo(struct vnode *);
 
+

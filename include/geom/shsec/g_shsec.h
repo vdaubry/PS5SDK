@@ -115,3 +115,4 @@ shsec_metadata_decode(const u_char *data, struct g_shsec_metadata *md)
 	md->md_provsize = le64dec(data + 60);
 }
 #endif	/* _G_SHSEC_H_ */
+

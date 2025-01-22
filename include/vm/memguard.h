@@ -53,3 +53,4 @@ int	is_memguard_addr(void *);
 #endif
 
 #endif /* _VM_MEMGUARD_H_ */
+

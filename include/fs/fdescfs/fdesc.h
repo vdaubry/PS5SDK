@@ -67,3 +67,4 @@ extern vfs_uninit_t fdesc_uninit;
 extern int fdesc_allocvp(fdntype, unsigned, int, struct mount *,
     struct vnode **);
 #endif /* _KERNEL */
+

@@ -95,3 +95,4 @@ struct mac_biba {
 #define	MAC_BIBA_BIT_SET_EMPTY(set)	biba_bit_set_empty(set)
 
 #endif /* !_SYS_SECURITY_MAC_BIBA_H */
+

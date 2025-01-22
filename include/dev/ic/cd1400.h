@@ -201,3 +201,4 @@
 #define	CD1400_RCOR		0x7C	/* receive clock option */
 #define	CD1400_TBPR		0x72	/* transmit baud rate period */
 #define	CD1400_TCOR		0x76	/* transmit clock option */
+

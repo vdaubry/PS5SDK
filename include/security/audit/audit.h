@@ -370,3 +370,4 @@ void	 audit_thread_free(struct thread *td);
 #endif /* AUDIT */
 
 #endif /* !_SECURITY_AUDIT_KERNEL_H_ */
+

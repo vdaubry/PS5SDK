@@ -751,3 +751,4 @@ struct wi_scan_p2_hdr {
 #define WI_DEBUG_CONFBITS	0x15
 
 #endif
+

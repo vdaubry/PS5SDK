@@ -123,3 +123,4 @@ extern void	acpi_deregister_ioctl(u_long cmd, acpi_ioctl_fn fn);
 #endif
 
 #endif /* !_ACPIIO_H_ */
+

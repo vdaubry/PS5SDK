@@ -1688,3 +1688,4 @@ static int __init linux_probe(struct pci_dev *, const struct pci_device_id *);
 #endif /* KERNEL */
 
 #endif /* IF_LMC_H */
+

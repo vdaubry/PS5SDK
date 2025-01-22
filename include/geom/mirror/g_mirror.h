@@ -490,3 +490,4 @@ mirror_metadata_dump(const struct g_mirror_metadata *md)
 	printf("  MD5 hash: %s\n", hash);
 }
 #endif	/* !_G_MIRROR_H_ */
+

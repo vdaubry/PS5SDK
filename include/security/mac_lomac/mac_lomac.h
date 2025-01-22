@@ -87,3 +87,4 @@ struct mac_lomac {
 };
 
 #endif /* !_SYS_SECURITY_MAC_LOMAC_H */
+

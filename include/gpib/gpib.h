@@ -31,3 +31,4 @@
 #include <dev/ieee488/ugpib.h>
 
 #define ibcntl	ibcnt
+

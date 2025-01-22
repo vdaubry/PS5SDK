@@ -401,3 +401,4 @@ g_ctl_req_t g_raid_ctl;
 #endif	/* _KERNEL */
 
 #endif	/* !_G_RAID_H_ */
+
